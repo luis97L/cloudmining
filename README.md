@@ -1,0 +1,2 @@
+# cloudmining
+mineria 
